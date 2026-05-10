@@ -4,6 +4,10 @@
 
 <br/>
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshranjan-art/harshranjan-art/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshranjan-art/harshranjan-art/output/github-contribution-grid-snake.svg" />
@@ -16,6 +20,12 @@
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://harshranjan.vercel.app)&nbsp;
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:harshranjan3648@gmail.com)&nbsp;
 ![visitors](https://komarev.com/ghpvc/?username=harshranjan-art&style=flat&color=grey)
+
+<br/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="streak"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshranjan-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&rank_icon=github" alt="stats"/>
 
 </div>
 
@@ -81,22 +91,6 @@ Backend      Spring Boot · gRPC · REST · Redis · PostgreSQL · MongoDB
 DevOps       Docker · Kubernetes · GitHub Actions · Jenkins · Grafana · Kafka
 Security     OWASP LLM Top-10 · Prompt Injection Defense · OAuth · JWT
 ```
-
----
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-night-green.svg)
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=dark&hide_border=true&background=00000000&stroke=444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888&sideLabels=888&dates=555" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshranjan-art&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&count_private=true&hide=issues" alt="stats"/>
-
-</div>
 
 ---
 
