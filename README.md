@@ -86,6 +86,10 @@ Security     OWASP LLM Top-10 · Prompt Injection Defense · OAuth · JWT
 
 <div align="center">
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=dark&hide_border=true&background=00000000&stroke=444&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888&sideLabels=888&dates=555" alt="streak"/>
 
 <br/>
