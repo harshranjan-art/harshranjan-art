@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-CS undergrad who ships **production agentic systems** — two AI agents deployed at Stable Money, a DeFi execution engine migrated to **Google Cloud (Vertex AI, Cloud Run, Vertex Vector Search)**. I build the full stack: multi-agent architecture, CI eval pipelines, LLM-native cost engineering, and MCP tool-calling hardened to OWASP LLM Top-10.
+CS undergrad who ships **production agentic systems** — two AI agents built, a DeFi execution engine migrated to **Google Cloud (Vertex AI, Cloud Run, Vertex Vector Search)**. I build the full stack: multi-agent architecture, CI eval pipelines, LLM-native cost engineering, and MCP tool-calling hardened to OWASP LLM Top-10.
 
 - 🏢 **Full Stack Developer @ [Stable Money](https://stablemoney.in)** *(Dec 2025 – Present, PPO)*
 - 🎓 **B.Tech CS @ Punjab Engineering College** | CGPA: 8.01/10 | 2023–2027
