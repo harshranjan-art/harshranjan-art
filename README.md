@@ -4,6 +4,14 @@
 
 <br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshranjan-art/harshranjan-art/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshranjan-art/harshranjan-art/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/harshranjan-art/harshranjan-art/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshranjan-art)&nbsp;
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://harshranjan.vercel.app)&nbsp;
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:harshranjan3648@gmail.com)&nbsp;
