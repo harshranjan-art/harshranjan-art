@@ -24,8 +24,7 @@
 <br/>
 
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=github-dark-blue&hide_border=true" alt="streak"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=harshranjan-art&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="stats"/>
+
 
 </div>
 
