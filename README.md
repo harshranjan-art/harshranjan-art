@@ -4,7 +4,7 @@
 
 <br/>
 
-![](./profile-3d-contrib/profile-custom.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 <br/>
 
