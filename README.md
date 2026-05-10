@@ -24,12 +24,11 @@ CS undergrad who ships **production agentic systems** — two AI agents built, a
 ## 💼 Experience
 
 ### Stable Money | Full Stack Developer *(Dec 2025 – Present)*
-> High-Ownership Startup Environment · Pre-Placement Offer (PPO)
+> High-Ownership Startup Environment · 
 
 - **On-Call Infra Agent:** 80% reduction in manual triage time via an MCP-based ReAct agent integrated with Grafana, Jenkins, Metabase & GitHub (92% accuracy, 40% improvement in MTTD)
-- **Conversational Investment Agent:** LLM transaction agent via MCP tool-calling over live APIs; OAuth guardrails enforced 0 unauthorized invocations across 200 internal testers
 - **AI-Adjacent Backend:** Event-driven data pipelines (GCP Pub/Sub); Redis caching reduced P95 latency 5x; 30+ REST APIs (Java, Spring Boot, gRPC) serving 10M+ users; 90+ PRs in 4 months
-- **Autonomous PM Agent:** LLM-based sprint planning over tickets & PRs; saved ~15% of total engineering bandwidth
+
 
 ---
 
