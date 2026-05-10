@@ -19,10 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: settings.json
-
-      - name: Remove language pie and radar from SVG
-        run: python3 .github/scripts/strip_svg.py
 
       - name: Commit & Push
         run: |
