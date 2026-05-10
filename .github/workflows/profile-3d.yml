@@ -21,27 +21,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: settings.json
 
-      - name: Remove language pie chart and radar from SVG
-        run: |
-          python3 - <<'EOF'
-          import re, sys
-
-          with open("profile-3d-contrib/profile-custom.svg", "r", encoding="utf-8") as f:
-              content = f.read()
-
-          # Remove pie chart group (contains donut/language legend)
-          content = re.sub(r'<g[^>]*>[^<]*(?:<(?!g)[^/][^>]*/>|<(?!g)[^/][^>]*>(?:(?!</).)*</[^g][^>]*>)*[^<]*(?:TypeScript|JavaScript|pie|donut)[^<]*(?:(?!</g>).|
-)*?</g>', '', content, flags=re.DOTALL)
-
-          # Remove radar chart group  
-          content = re.sub(r'<g[^>]*>[^<]*(?:Commit|Repo|Issue|Review|PullReq)[^<]*(?:(?!</g>).|
-)*?</g>', '', content, flags=re.DOTALL)
-
-          with open("profile-3d-contrib/profile-custom.svg", "w", encoding="utf-8") as f:
-              f.write(content)
-
-          print("Done")
-          EOF
+      - name: Remove language pie and radar from SVG
+        run: python3 .github/scripts/strip_svg.py
 
       - name: Commit & Push
         run: |
