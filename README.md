@@ -4,7 +4,7 @@
 
 <br/>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-custom.svg)
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 <br/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=aaaaaa&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="streak"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=github-dark-blue&hide_border=true" alt="streak"/>
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=harshranjan-art&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide=issues&rank_icon=github" alt="stats"/>
 
