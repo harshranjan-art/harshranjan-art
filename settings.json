@@ -1,17 +1,19 @@
-[
-  {
-    "type": "isometric-1",
-    "fileName": "profile-custom.svg",
-    "backgroundColor": "#0d1117",
-    "foregroundColor": "#c9d1d9",
-    "strongColor": "#39d353",
-    "weakColor": "#0e4429",
-    "contribColors": [
-      "#0e4429",
-      "#006d32",
-      "#26a641",
-      "#39d353",
-      "#56ff6e"
-    ]
-  }
-]
+{
+  "type": "normal",
+  "fileName": "profile-custom.svg",
+  "backgroundColor": "#0d1117",
+  "foregroundColor": "#8b949e",
+  "strongColor": "#39d353",
+  "weakColor": "#161b22",
+  "radarColor": "#39d353",
+  "growingAnimation": true,
+  "showLanguages": false,
+  "showRadar": false,
+  "contribColors": [
+    "#161b22",
+    "#0e4429",
+    "#006d32",
+    "#26a641",
+    "#39d353"
+  ]
+}
