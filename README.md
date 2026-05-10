@@ -85,6 +85,5 @@ CS undergrad who ships **production agentic systems** — two AI agents built, a
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=harshranjan-art&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   &nbsp;&nbsp;
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshranjan-art&theme=tokyonight" alt="Top Languages"/>
 </p>
 *📬 Open to opportunities — reach me at harshranjan3648@gmail.com*
